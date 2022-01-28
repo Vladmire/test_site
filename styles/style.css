@@ -55,11 +55,11 @@ header {
 }
 
 .poster {
-    background: url('/../images/main.png') no-repeat;
+    background: url("../images/main.png") no-repeat;
     background-size: cover;
 }
 .poster-2 {
-    background: url('/../images/image.png') no-repeat;
+    background: url("../images/image.png") no-repeat;
     background-size: cover;
 }
 
